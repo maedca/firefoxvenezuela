@@ -1,0 +1,19 @@
+override chrome://global/locale/netError.dtd chrome://browser/locale/netError.dtd
+locale autoconfig es-AR jar:chrome/es-AR.jar!/locale/es-AR/autoconfig/
+locale cookie es-AR jar:chrome/es-AR.jar!/locale/es-AR/cookie/
+override chrome://mozapps/locale/downloads/settingsChange.dtd chrome://browser/locale/downloads/settingsChange.dtd
+locale browser es-AR jar:chrome/es-AR.jar!/locale/browser/
+override chrome://global/locale/appstrings.properties chrome://browser/locale/appstrings.properties
+locale places es-AR jar:chrome/es-AR.jar!/locale/es-AR/places/
+locale reporter es-AR jar:chrome/es-AR.jar!/locale/es-AR/reporter/
+locale branding es-AR jar:chrome/es-AR.jar!/locale/branding/
+locale pippki es-AR jar:chrome/es-AR.jar!/locale/es-AR/pippki/
+locale alerts es-AR jar:chrome/es-AR.jar!/locale/es-AR/alerts/
+locale pipnss es-AR jar:chrome/es-AR.jar!/locale/es-AR/pipnss/
+locale necko es-AR jar:chrome/es-AR.jar!/locale/es-AR/necko/
+locale passwordmgr es-AR jar:chrome/es-AR.jar!/locale/es-AR/passwordmgr/
+locale global-region es-AR jar:chrome/es-AR.jar!/locale/es-AR/global-region/
+locale global-platform es-AR jar:chrome/es-AR.jar!/locale/es-AR/global-platform/
+locale browser-region es-AR jar:chrome/es-AR.jar!/locale/browser-region/
+locale global es-AR jar:chrome/es-AR.jar!/locale/es-AR/global/
+locale mozapps es-AR jar:chrome/es-AR.jar!/locale/es-AR/mozapps/

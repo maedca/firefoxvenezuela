@@ -1,0 +1,18 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY advancedJSDialog.title         "Configuración Avanzada de JavaScript">
+<!ENTITY window.width                   "37em">
+
+<!ENTITY allowScripts.label             "Permitir a los scripts:">
+
+<!ENTITY moveResizeWindows.label        "Mover o cambiar tamaño de ventanas existentes">
+<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY raiseLowerWindows.label        "Subir o bajar las ventanas">
+<!ENTITY raiseLowerWindows.accesskey    "S">
+<!ENTITY disableContextMenus.label      "Deshabilitar o reemplazar menús contextuales">
+<!ENTITY disableContextMenus.accesskey  "D">
+<!ENTITY hideStatusBar.label            "Ocultar la barra de estado">
+<!ENTITY hideStatusBar.accesskey        "O">
+<!ENTITY changeStatusBar.label          "Cambiar el texto de la barra de estado">
+<!ENTITY changeStatusBar.accesskey      "C">
